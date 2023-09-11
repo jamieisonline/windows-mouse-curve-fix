@@ -1,8 +1,8 @@
 # windows-mouse-curve-fix
  Markc's mouse fix just simplified. (https://donewmouseaccel.blogspot.com/2010/03/markc-windows-7-mouse-acceleration-fix.html)
 --------------------------------------------------------------------------------------------------
-.Registry file that removes Window mouse pointer acceleration.
-.Redefines the accel curve used by the 'Enhance pointer precision' to a be straight line.
+Registry file that removes Window mouse pointer acceleration.
+Redefines the accel curve used by the 'Enhance pointer precision' to a be straight line.
 
 
 1)Go to Display settings make sure scaling is @ 100%
